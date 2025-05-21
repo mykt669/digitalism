@@ -1,10 +1,8 @@
 @font-face {
     font-family: 'Aalto Display-Personal-use';
-    src: url('Aalto-Display-Personal-use.woff2') format('woff2'),
-        url('Aalto-Display-Personal-use.woff') format('woff'),
-        url('Aalto-Display-Personal-use.ttf') format('truetype');
+    src: url('fonts/Aalto-Display-Personal-use.woff2') format('woff2'),
+         url('fonts/Aalto-Display-Personal-use.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
